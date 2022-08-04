@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BecaUniversitaria",
+            "request": "launch",
+            "mainClass": "Apollo11.BecaUniversitaria",
+            "projectName": "UTP-java_82725257"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
